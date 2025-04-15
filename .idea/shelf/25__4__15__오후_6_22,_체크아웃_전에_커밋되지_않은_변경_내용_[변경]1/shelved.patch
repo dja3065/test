@@ -1,0 +1,15 @@
+Index: main.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>print(\"Hello world1!\")\r\n\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/main.py b/main.py
+--- a/main.py	(revision 55b6e1b8ef5231e581392cf114ce539a8e4a28cb)
++++ b/main.py	(date 1744708922025)
+@@ -1,2 +1,3 @@
+ print("Hello world1!")
+-
++print("hello world2!!")
++print("hoxfix!!!")
